@@ -1,0 +1,35 @@
+{
+  "name": "RPG-Bot",
+  "version": "1.0.0",
+  "description": "RPG Whatsapp Bot",
+  "main": "src/index.js",
+  "author": "UdeanDev",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "pretty": "prettier --write \"src/**/*.js\"",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "whatsapp-bot",
+    "2023",
+    "base",
+    "baileys-md",
+    "bot",
+    "bot-md",
+    "multi-device",
+    "rpg",
+    "rpg-bot"
+  ],
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.4.0",
+    "axios": "^1.5.0",
+    "link-preview-js": "^3.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "wa-sticker-formatter": "^4.4.4"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.2"
+  }
+}
