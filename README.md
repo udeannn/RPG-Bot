@@ -24,7 +24,7 @@ git clone https://github.com/udeannn/RPG-Bot
 
 2. Navigate to the project directory
 ``` bash
-cd Rpg-Bot
+cd RPG-Bot
 ```
 
 3. Install the required dependencies using a package manager like npm or yarn:

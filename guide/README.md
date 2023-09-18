@@ -1,7 +1,7 @@
-<center>
+<div align="center">
   <img width="500" src="../assets/rpg-bg.png" />
   <h2> RPG Bot WhatsApp By UdeanDev </h2>
-</center>
+</div>
 
 ## Welcome to guide
 
