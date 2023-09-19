@@ -59,6 +59,7 @@ node src/index.js
 
 -   If you want log out your bot from yout device you must delete session folder
 -   You can help me add case by doing pull requests.
+-   You can see the RPG game guide here [RPG Guide](guide/RPGGuide.md)
 
 ## License
 This project under [MIT License](/LICENSE)
