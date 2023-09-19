@@ -20,4 +20,4 @@ example: .use potion
 ## Notes
 
 If you have difficulty or find a bug in the operation of this RPG bot, you can start opening an issue
-[Issue](https://github.com/DGXeon/CheemsBot-MD4/issues)
+[Issue](https://github.com/udeannn/RPG-Bot/issues)
