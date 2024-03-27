@@ -39,7 +39,7 @@ yarn install
 
 4. Copy configuration file
 ``` bash 
-cp -i config.example.js config.js
+cp -i src/config.example.js src/config.js
 ```
 or<br>
 Rename `src/config.json.example` to `src/config.json`
